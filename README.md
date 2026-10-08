@@ -26,7 +26,6 @@ Includes:
 * improved visuals
 * enhanced HUD/UI
 * Simple Voice Chat
-* Voxy distant terrain (LOD)
 * performance optimizations
 
 Recommended for:
@@ -81,10 +80,10 @@ Everything has been obtained from Modrinth and made in Prism Launcher.*
 3. Go to "**My Modpacks**"
 4. Click "**Import**"
 5. Select "**Choose `.zip` file**"
-6. Select the CurseForge `.zip`
+6. Locate and select the CurseForge `.zip`
 7. Check the box and choose "**All Files**"
 8. Launch when finished
-There is an icon if you want to change it!
+There is an icon included if you want to change it!
 ---
 
 ## Prism Launcher **(Recommended)**
@@ -93,7 +92,7 @@ There is an icon if you want to change it!
 2. Open Prism Launcher
 3. Click "**Add Instance**"
 4. Click "**Browse**"
-5. Selet the Prism `.zip`
+5. Locate and select the Prism `.zip`
 6. Press "**OK**"
 7. Launch
 
@@ -105,6 +104,38 @@ There is an icon if you want to change it!
 2. Run the `.mrpack`
 3. Click "**Install anyway**"
 4. Launch in library
+
+---
+
+# Updating Modpacks
+
+## CurseForge
+
+1. Follow installation instructions for updated pack
+2. Right-Click outdated modpack and choose "**Open Folder**"
+3. Repeat step 2 with newly installed modpack
+4. Transfer "**saves**" folder and "**options`.txt`**"
+from outdated modpack to updated modpack
+5. Confirm working order before deleting outdated pack
+
+## Prism Launcher
+
+1. Follow installation instructions for updated pack
+2. Select outdated modpack and choose "**Folder**" on the right side
+3. Repeat step 2 with newly installed modpack
+4. Open the "**minecraft**" folder for both packs
+5. Transfer "**saves**" folder and "**options`.txt`**"
+from outdated modpack to updated modpack
+6. Confirm working order before deleting outdated pack
+
+## Modrinth App
+
+1. Follow installation instructions for updated pack
+2. Right-Click outdated modpack and choose "**Open Folder**"
+3. Repeat step 2 with newly installed modpack
+4. Transfer "**saves**" folder and "**options`.txt`**"
+from outdated modpack to updated modpack
+5. Confirm working order before deleting outdated pack
 
 ---
 
