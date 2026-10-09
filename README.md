@@ -145,7 +145,6 @@ The packs ship preconfigured with:
 
 * recommended shader settings
 * optimized Sodium settings
-* Voxy preset configuration
 * preloaded server address
 * mod compatibility settings
 
